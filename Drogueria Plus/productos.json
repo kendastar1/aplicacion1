@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "hola",
+        "descripcion": "nose",
+        "precio": "2.000",
+        "cantidad": 2,
+        "imagen": "imagenes/Captura de pantalla 2024-11-05 081201.png"
+    },
+    {
+        "nombre": "hola2",
+        "descripcion": "como estas",
+        "precio": "2.000",
+        "cantidad": 10,
+        "imagen": "imagenes/crear-app-para-venta-de-productos.jpg"
+    },
+    {
+        "nombre": "jhoan",
+        "descripcion": "persona",
+        "precio": "5.000",
+        "cantidad": 24,
+        "imagen": "imagenes/WhatsApp Image 2024-11-11 at 9.18.06 PM.jpeg"
+    }
+]
